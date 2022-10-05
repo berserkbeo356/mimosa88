@@ -1,4 +1,4 @@
-# mimosa88 theme Mark V.1
+# mimosa88 theme Mark V.2
 
 Hello World My Nmae Is Mimasa
 
