@@ -1,13 +1,13 @@
 {
   "name": "mimosa88",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.0.1",
+  "description": "Hello World My Name Is Mimosa88",
   "keywords": [
-    "syntax",
-    "theme"
+    "Hello World",
+    "Mimosa88"
   ],
-  "repository": "https://github.com/atom/mimosa88",
+  "repository": "https://github.com/berserkbeo356/mimosa88",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
